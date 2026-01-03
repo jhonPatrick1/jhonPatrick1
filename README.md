@@ -67,6 +67,6 @@ Solución orientada a la gestión crediticia entre prestamistas y clientes.
 
 ### 📫 ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](AQUÍ_TU_ENLACE_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jhon-patrick-cali-023332261)
 
 </div>
