@@ -37,10 +37,24 @@ Actualmente curso el **séptimo ciclo de Ingeniería de Sistemas**. Me especiali
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Enfoque Full Stack |
-| :--- | :--- |
-| **La Tarima** | Desarrollo completo de la interfaz y lógica de servidor para la gestión de pagos y reportes en PDF. |
-| **App de Préstamos** | Implementación de lógica financiera avanzada (Método Alemán) con una interfaz dinámica para el seguimiento de cuotas. |
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/jhonPatrick1/La-Tarima">
+        <img src="./tarima-fondo.jpg" width="80%" alt="La Tarima"/><br />
+        <b>La Tarima - Gestión de Hamburguesería</b>
+      </a>
+      <p>Sistema web (PHP/MySQL) con facturación en PDF.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/jhonPatrick1/App-Prestamos">
+        <img src="./prestamos-fondo.jpg" width="80%" alt="App Préstamos"/><br />
+        <b>Aplicativo de Préstamos</b>
+      </a>
+      <p>Cálculo de cuotas mediante el <b>Método Alemán</b>.</p>
+    </td>
+  </tr>
+</table>
 
 ---
   
