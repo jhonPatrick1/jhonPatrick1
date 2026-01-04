@@ -40,14 +40,14 @@ Actualmente curso el **séptimo ciclo de Ingeniería de Sistemas**. Me especiali
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/jhonPatrick1/La-Tarima">
+      <a href="https://github.com/jhonPatrick1/Sistema-LaTarima">
         <img src="./tarima-fondo.jpg" width="80%" alt="La Tarima"/><br />
         <b>La Tarima - Gestión de Hamburguesería</b>
       </a>
       <p>Sistema web (PHP/MySQL) con facturación en PDF.</p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/jhonPatrick1/App-Prestamos">
+      <a href="https://github.com/jhonPatrick1/Calculadora-de-Prestamos">
         <img src="./prestamos-fondo.jpg" width="80%" alt="App Préstamos"/><br />
         <b>Aplicativo de Préstamos</b>
       </a>
