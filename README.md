@@ -63,7 +63,4 @@ Actualmente curso el **séptimo ciclo de Ingeniería de Sistemas**. Me especiali
 <a href="https://linkedin.com/in/jhon-patrick-cali-023332261" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:TU_CORREO@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
 </div>
