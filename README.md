@@ -47,9 +47,15 @@
         <b>🔹 Panel Administrativo:</b> Gestión de citas, facturación y manifiesto con seguridad Middleware.<br>
         <b>🔹 Motor Dinámico:</b> Algoritmo de disponibilidad que cruza duraciones de múltiples servicios con la base de datos para evitar colisiones de horarios al instante.
       </p>
-      <a href="https://www.markusbarberia.com" target="_blank">
-         <img src="https://img.shields.io/badge/Visitar_Proyecto_en_Vivo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site">
-      </a>
+      <div align="center">
+        <a href="https://www.markusbarberia.com" target="_blank">
+           <img src="https://img.shields.io/badge/Visitar_Proyecto_en_Vivo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site">
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/jhonPatrick1/MARKUS.Barberia" target="_blank">
+           <img src="https://img.shields.io/badge/Ver_Documentaci%C3%B3n_T%C3%A9cnica-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Docs">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
