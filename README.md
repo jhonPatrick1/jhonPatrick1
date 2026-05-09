@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./bannerr%20.png" width="100%" alt="Banner Jhon Patrick" />
+  <img src="./bannerr.png" width="100%" alt="Banner Jhon Patrick" />
   <h1>¡Hola! Soy Jhon Patrick Cali 👋</h1>
   <p>Estudiante de Ingeniería de Sistemas | Desarrollador Full-Stack</p>
 </div>
