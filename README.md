@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./banner%20(2).png" width="100%" alt="Banner Jhon Patrick" />
   <h1>¡Hola! Soy Jhon Patrick Cali 👋</h1>
   <p>Estudiante de Ingeniería de Sistemas | Desarrollador Full-Stack</p>
 </div>
@@ -37,8 +38,7 @@
   <tr>
     <td align="center" width="100%">
       <a href="https://www.markusbarberia.com" target="_blank">
-        <!-- Reemplaza "markus-preview.jpg" por la imagen de tu portada de Markus -->
-        <img src="./markus-preview.jpg" width="100%" alt="Markus Barbería Sistema"/><br />
+        <img src="./og-image%20(2).jpg" width="100%" alt="Markus Barbería Sistema"/><br />
       </a>
       <h3>💈 Sistema de Reservas & Panel Multinivel - Markus Barbería</h3>
       <p align="left">
