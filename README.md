@@ -83,6 +83,32 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://challenge-agente-financiero.vercel.app/" target="_blank">
+        <img src="./og-image-zindex.jpg" width="100%" alt="Z-Index Studio AI"/><br />
+      </a>
+      <h3>🤖 Z-Index Studio AI - Motor de Inteligencia Financiera</h3>
+      <p align="left">
+        Agente inteligente full-stack desarrollado como entrega oficial para el <b>Challenge Alura (Oracle ONE - AI for Tech)</b>, integrado como motor operativo de mi agencia <b>Z-Index Studio</b>.<br><br>
+        <b>🔹 Stack:</b> Next.js, TypeScript, Tailwind CSS, Google Gemini API & Vercel.<br>
+        <b>🔹 Arquitectura RAG & Multimodal:</b> Procesamiento directo de documentación técnica y manuales operativos en formato PDF para responder consultas de negocio en tiempo real.<br>
+        <b>🔹 Motor Financiero:</b> Automatización de explicaciones sobre el método de amortización alemán, flujos de liquidez y protocolos de capital.
+      </p>
+      <div align="center">
+        <a href="https://challenge-agente-financiero.vercel.app/" target="_blank">
+           <img src="https://img.shields.io/badge/Probar_Aplicaci%C3%B3n_En_Vivo-10B981?style=for-the-badge&logoColor=white" alt="Live Site">
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/jhonPatrick1/challenge-agente-financiero" target="_blank">
+           <img src="https://img.shields.io/badge/Ver_Repositorio-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ---
   
 ## 📫 ¡Conectemos!
