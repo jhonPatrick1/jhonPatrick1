@@ -89,7 +89,7 @@
       <div align="center">
         <img src="https://img.shields.io/badge/ORACLE%20ONE%20%E2%80%A2%20AI%20FOR%20TECH-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle ONE" />
       </div>
-      <h3>🤖 Z-Index Studio AI - Motor de Inteligencia Financiera</h3>
+      <h3>🤖 Motor de Inteligencia Financiera</h3>
       <p align="left">
         Agente inteligente full-stack desarrollado como entrega oficial para el <b>Challenge Alura (Oracle ONE - AI for Tech)</b>, integrado como motor operativo de mi agencia <b>Z-Index Studio</b>.<br><br>
         <b>🔹 Stack:</b> Next.js, TypeScript, Tailwind CSS, Google Gemini API & Vercel.<br>
