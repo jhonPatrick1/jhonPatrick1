@@ -86,14 +86,6 @@
 <table align="center">
   <tr>
     <td align="center" width="100%">
-      <a href="https://challenge-agente-financiero.vercel.app/" target="_blank">
-      
-<table align="center">
-  <tr>
-    <td align="center" width="100%">
-      <a href="https://challenge-agente-financiero.vercel.app/" target="_blank">
-        <img src="./og-image-zindex.jpg" width="100%" alt="Z-Index Studio AI"/><br />
-      </a>
       <h3>🤖 Z-Index Studio AI - Motor de Inteligencia Financiera</h3>
       <p align="left">
         Agente inteligente full-stack desarrollado como entrega oficial para el <b>Challenge Alura (Oracle ONE - AI for Tech)</b>, integrado como motor operativo de mi agencia <b>Z-Index Studio</b>.<br><br>
